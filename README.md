@@ -12,6 +12,7 @@ Technologies:
 
   Visual Studio
   Visual Studio Code
+  Sql Server
   AZURE
   
 * Contact for Azure Key *
